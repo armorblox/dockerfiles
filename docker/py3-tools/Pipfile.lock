@@ -104,11 +104,11 @@
         },
         "algorithmia": {
             "hashes": [
-                "sha256:a903a2152e369aef4fa0b985b00f12202254b379cc4d7d9433f9a56ea4bd793f",
-                "sha256:d843ac956a7ad6c7ac7cc6dd64889595903bd7080b3621e293590c2cffe5291d"
+                "sha256:16a2a391ce7a9a53d81ed2212053200a465e7de109d063a62abbff082973461b",
+                "sha256:23634a9cbd1560a53a15b7674e31a243b11c9066d659564da8221e40ce21d18d"
             ],
             "index": "pypi",
-            "version": "==1.17.0"
+            "version": "==2.0.3"
         },
         "algorithmia-adk": {
             "hashes": [
@@ -378,7 +378,7 @@
                 "sha256:9d1bf141427b7d54be944587c8349df791ce60ade2e3cccaf9c56368c133c201",
                 "sha256:f83c658e4968998eed1923a2e3e3eddd347e005ac0315fbb7ca4d70ea9156323"
             ],
-            "markers": "python_version >= '3.6' and python_version < '4.0'",
+            "markers": "python_version >= '3.6' and python_version < '4'",
             "version": "==3.2.1"
         },
         "idna": {
@@ -982,7 +982,7 @@
                 "sha256:8298d6d56d39be0e3bc13c1c97d133f9b45d797169a0e11cdd0e0489d786f7ec",
                 "sha256:879ba4d1e89654d9769ce13121e0f94310ea32e8d2f8cf587b77c08bbcdb30d6"
             ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4, 3.5' and python_version < '4.0'",
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4, 3.5' and python_version < '4'",
             "version": "==1.26.10"
         },
         "validate-email": {
