@@ -530,11 +530,11 @@
         },
         "transformers": {
             "hashes": [
-                "sha256:65ee4ae9abdeca8fe3a9e351256345e3c4db2a6a68accd5d6a141cfff6192751",
-                "sha256:d284eaf60b10fee45b24688423b5f7ba2d194f8c2dadf8df76cd58c1a9d08b52"
+                "sha256:15785eda995f53d4e98ad92e84b7446dd7cf2426ba79a1ffa7511c723bd32dfb",
+                "sha256:20f895d7304a5c7f5af099f9300b326819df9cf2167cdfb754450facc0e094f6"
             ],
             "index": "pypi",
-            "version": "==4.20.1"
+            "version": "==4.21.1"
         },
         "typing-extensions": {
             "hashes": [
