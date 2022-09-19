@@ -66,11 +66,11 @@
         },
         "google-auth": {
             "hashes": [
-                "sha256:997516b42ecb5b63e8d80f5632c1a61dddf41d2a4c2748057837e06e00014258",
-                "sha256:b7033be9028c188ee30200b204ea00ed82ea1162e8ac1df4aa6ded19a191d88e"
+                "sha256:be62acaae38d0049c21ca90f27a23847245c9f161ff54ede13af2cb6afecbac9",
+                "sha256:ed65ecf9f681832298e29328e1ef0a3676e3732b2e56f41532d45f70a22de0fb"
             ],
             "index": "pypi",
-            "version": "==1.35.0"
+            "version": "==2.11.0"
         },
         "google-auth-httplib2": {
             "hashes": [
@@ -300,14 +300,6 @@
             ],
             "index": "pypi",
             "version": "==4.7.2"
-        },
-        "setuptools": {
-            "hashes": [
-                "sha256:2e24e0bec025f035a2e72cdd1961119f557d78ad331bb00ff82efb2ab8da8e82",
-                "sha256:7732871f4f7fa58fb6bdcaeadb0161b2bd046c85905dbaa066bdcbcc81953b57"
-            ],
-            "markers": "python_version >= '3.7'",
-            "version": "==65.3.0"
         },
         "six": {
             "hashes": [
