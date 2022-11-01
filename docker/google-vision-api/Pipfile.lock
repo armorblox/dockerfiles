@@ -45,7 +45,7 @@
                 "sha256:5a3d016c7c547f69d6f81fb0db9449ce888b418b5b9952cc5e6e66843e9dd845",
                 "sha256:83e9a75d1911279afd89352c68b45348559d1fc0506b054b346651b5e7fee29f"
             ],
-            "markers": "python_version >= '3.6'",
+            "markers": "python_full_version >= '3.6.0'",
             "version": "==2.1.1"
         },
         "google-api-core": {
@@ -66,11 +66,11 @@
         },
         "google-auth": {
             "hashes": [
-                "sha256:997516b42ecb5b63e8d80f5632c1a61dddf41d2a4c2748057837e06e00014258",
-                "sha256:b7033be9028c188ee30200b204ea00ed82ea1162e8ac1df4aa6ded19a191d88e"
+                "sha256:1ad5b0e6eba5f69645971abb3d2c197537d5914070a8c6d30299dfdb07c5c700",
+                "sha256:cf24817855d874ede2efd071aa22125445f555de1685b739a9782fcf408c2a3d"
             ],
             "index": "pypi",
-            "version": "==1.35.0"
+            "version": "==2.14.0"
         },
         "google-auth-httplib2": {
             "hashes": [
@@ -157,10 +157,10 @@
         },
         "grpcio-status": {
             "hashes": [
-                "sha256:655af4d0d6e67586cb2ca24c3db5fe08e4e2972d17f295f6b546fa7bd7eef1f6",
-                "sha256:e04f8c2daa580a8f0f9929c10dc9d696857473f21469a5f2a990a15bafc21a86"
+                "sha256:2c33bbdbe20188b2953f46f31af669263b6ee2a9b2d38fa0d36ee091532e21bf",
+                "sha256:53695f45da07437b7c344ee4ef60d370fd2850179f5a28bb26d8e2aa1102ec11"
             ],
-            "version": "==1.48.1"
+            "version": "==1.48.2"
         },
         "httplib2": {
             "hashes": [
@@ -188,11 +188,11 @@
         },
         "oauthlib": {
             "hashes": [
-                "sha256:1565237372795bf6ee3e5aba5e2a85bd5a65d0e2aa5c628b9a97b7d7a0da3721",
-                "sha256:88e912ca1ad915e1dcc1c06fc9259d19de8deacd6fd17cc2df266decc2e49066"
+                "sha256:8139f29aac13e25d502680e9e19963e83f16838d48a0d71c287fe40e7067fbca",
+                "sha256:9859c40929662bec5d64f34d01c99e093149682a3f38915dc0655d5a633dd918"
             ],
-            "markers": "python_version >= '3.6'",
-            "version": "==3.2.1"
+            "markers": "python_full_version >= '3.6.0'",
+            "version": "==3.2.2"
         },
         "protobuf": {
             "hashes": [
@@ -301,14 +301,6 @@
             "index": "pypi",
             "version": "==4.7.2"
         },
-        "setuptools": {
-            "hashes": [
-                "sha256:2e24e0bec025f035a2e72cdd1961119f557d78ad331bb00ff82efb2ab8da8e82",
-                "sha256:7732871f4f7fa58fb6bdcaeadb0161b2bd046c85905dbaa066bdcbcc81953b57"
-            ],
-            "markers": "python_version >= '3.7'",
-            "version": "==65.3.0"
-        },
         "six": {
             "hashes": [
                 "sha256:1e61c37477a1626458e36f7b1d82aa5c9b094fa4802892072e49de9c60c4c926",
@@ -322,7 +314,7 @@
                 "sha256:4346edfc5c3b79f694bccd6d6099a322bbeb628dbf2cd86eea55a456ce5124f0",
                 "sha256:830c08b8d99bdd312ea4ead05994a38e8936266f84b9a7878232db50b044e02e"
             ],
-            "markers": "python_version >= '3.6'",
+            "markers": "python_full_version >= '3.6.0'",
             "version": "==4.1.1"
         },
         "urllib3": {
