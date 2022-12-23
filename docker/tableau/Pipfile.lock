@@ -82,11 +82,11 @@
         },
         "tableauserverclient": {
             "hashes": [
-                "sha256:1e83f5b57c56eddf9ec42eac2e314606ccd10a2a2c2eba5fb231064ad4a71a5b",
-                "sha256:6f6e42b963c80f76db49991619c40dc2c12050e73f41b4c4dde982a211d1c5c2"
+                "sha256:1824a826191d91fcfe84a6c30346c1a97f58652ab73bd53c2db8e9a61f670df8",
+                "sha256:ba6ef20bb622a3ed2e60ef49db73da58bce5f4c562c51a2b091de408927178ed"
             ],
             "index": "pypi",
-            "version": "==0.23"
+            "version": "==0.23.4"
         },
         "typing-extensions": {
             "hashes": [
