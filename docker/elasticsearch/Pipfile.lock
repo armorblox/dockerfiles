@@ -120,11 +120,11 @@
         },
         "elasticsearch": {
             "hashes": [
-                "sha256:840adeb45a5ec9102a83f3cf481aae83a3775b75d6dd83a7310b04e44a5d0308",
-                "sha256:f511ea92e96db09b0e96b0de5fbbb7aa5c3740b0c571a364a2c3a1cc7ec06203"
+                "sha256:0e2454645dc00517dee4c6de3863411a9c5f1955d013c5fefa29123dadc92f98",
+                "sha256:66c4ece2adfe7cc120e2b6a6798a1fd5c777aecf82eec39bb95cef7cfc7ea2b3"
             ],
             "index": "pypi",
-            "version": "==7.17.8"
+            "version": "==7.17.9"
         },
         "elasticsearch-dsl": {
             "hashes": [
