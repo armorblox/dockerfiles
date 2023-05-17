@@ -189,7 +189,7 @@
                 "sha256:03f829f5bb1923180821643f8753b0502c3b682293992485b0eef2807afa5cba",
                 "sha256:63579f9a0628e06278f7e47b7d7d5b6ce20dc65c5e96a6f3ca99a6adca0396e8"
             ],
-            "markers": "python_version >= '3.7' and python_version < '4'",
+            "markers": "python_version >= '3.7' and python_version < '4.0'",
             "version": "==2.2.1"
         },
         "beautifulsoup4": {
@@ -490,7 +490,7 @@
                 "sha256:06d2aad0ac723e35b1cb47885d3e5c45e956a53bc1b209a9fc5369007fe46676",
                 "sha256:5766780452bd5ec8ba133f8bf287dc92713e3868ddd83aee4faab9fc3e303dc3"
             ],
-            "markers": "python_version >= '3.6' and python_version < '4'",
+            "markers": "python_version >= '3.6' and python_version < '4.0'",
             "version": "==3.2.3"
         },
         "idna": {
@@ -1136,11 +1136,11 @@
         },
         "vertica-python": {
             "hashes": [
-                "sha256:26eeed6a51764f2cfa3f9d577d579adb678a33fc0350fdee81c0168f6b41e020",
-                "sha256:e12e3ad605114f12fae9ed434f703a605f97535416fcdddc75a358d5646fc0c1"
+                "sha256:3664f0610c16cd5d606b8bbe5c0a50359b1e979d9383c07967bbd49d4990a02f",
+                "sha256:e0096e430c0f8249dae0e15c1dd0d28a4e7fcd5216e12643d48eadc8e1cb0540"
             ],
             "index": "pypi",
-            "version": "==1.3.1"
+            "version": "==1.3.2"
         },
         "websocket-client": {
             "hashes": [
