@@ -479,11 +479,11 @@
         },
         "gql": {
             "hashes": [
-                "sha256:59c8a0b8f0a2f3b0b2ff970c94de86f82f65cb1da3340bfe57143e5f7ea82f71",
-                "sha256:ca81aa8314fa88a8c57dd1ce34941278e0c352d762eb721edcba0387829ea7c0"
+                "sha256:11dc5d8715a827f2c2899593439a4f36449db4f0eafa5b1ea63948f8a2f8c545",
+                "sha256:315624ca0f4d571ef149d455033ebd35e45c1a13f18a059596aeddcea99135cf"
             ],
             "index": "pypi",
-            "version": "==3.4.0"
+            "version": "==3.4.1"
         },
         "graphql-core": {
             "hashes": [
