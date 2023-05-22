@@ -1090,11 +1090,11 @@
         },
         "tldextract": {
             "hashes": [
-                "sha256:5ed3fd01df4e78b8b378bdff94397cd8cdb130b54d2681c40d254beadd50f69f",
-                "sha256:d3fbbfcdadbaff5d414dd8a77cfcc8c3aa811fa5470d8bad289b4c508f39d778"
+                "sha256:581e7dbefc90e7bb857bb6f768d25c811a3c5f0892ed56a9a2999ddb7b1b70c2",
+                "sha256:5fe3210c577463545191d45ad522d3d5e78d55218ce97215e82004dcae1e1234"
             ],
             "index": "pypi",
-            "version": "==3.4.3"
+            "version": "==3.4.4"
         },
         "toml": {
             "hashes": [
@@ -1144,11 +1144,11 @@
         },
         "websocket-client": {
             "hashes": [
-                "sha256:3f09e6d8230892547132177f575a4e3e73cfdf06526e20cc02aa1c3b47184d40",
-                "sha256:cdf5877568b7e83aa7cf2244ab56a3213de587bbe0ce9d8b9600fc77b455d89e"
+                "sha256:c7d67c13b928645f259d9b847ab5b57fd2d127213ca41ebd880de1f553b7c23b",
+                "sha256:f8c64e28cd700e7ba1f04350d66422b6833b82a796b525a51e740b8cc8dab4b1"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==1.5.1"
+            "version": "==1.5.2"
         },
         "xlrd": {
             "hashes": [
