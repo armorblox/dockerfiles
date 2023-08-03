@@ -506,11 +506,11 @@
         },
         "intezer-sdk": {
             "hashes": [
-                "sha256:2dfb95c72748182b5d8962d34fd7973115fb15bf5657d1ae8a14fc175f1a0d85",
-                "sha256:8974e5c32b975abe62f64a9a9ac79eb912692615b675c5a6dfe1c80e937c1a2e"
+                "sha256:ac6a85a3c4f23b1a4bb6d979972509a653f2118692e9d70eba460f4d2ab54f47",
+                "sha256:ea2914d7a493bcaffbd12dd150199fd1e5ab18cc79103224608bb11182c781d6"
             ],
             "index": "pypi",
-            "version": "==1.18.4"
+            "version": "==1.18.6"
         },
         "jmespath": {
             "hashes": [
@@ -895,11 +895,11 @@
         },
         "responses": {
             "hashes": [
-                "sha256:8a3a5915713483bf353b6f4079ba8b2a29029d1d1090a503c70b0dc5d9d0c7bd",
-                "sha256:c4d9aa9fc888188f0c673eff79a8dadbe2e75b7fe879dc80a221a06e0a68138f"
+                "sha256:205029e1cb334c21cb4ec64fc7599be48b859a0fd381a42443cdd600bfe8b16a",
+                "sha256:e6fbcf5d82172fecc0aa1860fd91e58cbfd96cee5e96da5b63fa6eb3caa10dd3"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==0.23.1"
+            "version": "==0.23.3"
         },
         "rsa-archer": {
             "hashes": [
