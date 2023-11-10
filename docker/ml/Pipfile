@@ -19,7 +19,7 @@ catboost = "*"
 eli5 = "*"
 langdetect = "*"
 onnx = "==1.15.0"
-onnxruntime = "==1.16.1"
+onnxruntime = "==1.16.2"
 transformers = "*"
 
 [dev-packages]
