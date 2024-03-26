@@ -18,7 +18,7 @@ dill = "*"
 catboost = "*"
 eli5 = "*"
 langdetect = "*"
-onnx = "==1.15.0"
+onnx = "==1.16.0"
 onnxruntime = "==1.17.1"
 transformers = "*"
 
