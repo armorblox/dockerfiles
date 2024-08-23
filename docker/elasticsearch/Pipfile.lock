@@ -162,12 +162,12 @@
         },
         "opensearch-py": {
             "hashes": [
-                "sha256:6a36535efcda870c820fd84c4bda96d7d57fc900a8c7dec660a48c079904df97",
-                "sha256:c09a73727868c29f86ffbed1e987afb7f86bcce983b28bf69249cfad8c831d68"
+                "sha256:5417650eba98a1c7648e502207cebf3a12beab623ffe0ebbf55f9b1b4b6e44e9",
+                "sha256:67ab76e9373669bc71da417096df59827c08369ac3795d5438c9a8be21cbd759"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.8' and python_version < '4'",
-            "version": "==2.7.0"
+            "version": "==2.7.1"
         },
         "python-dateutil": {
             "hashes": [
