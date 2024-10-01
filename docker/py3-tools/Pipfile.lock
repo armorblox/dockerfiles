@@ -443,12 +443,12 @@
         },
         "cyjax-cti": {
             "hashes": [
-                "sha256:04859331b4721a0c8da17cae12182d7c76b7c5c37ef3c08ffa57d98e3d9985e7",
-                "sha256:4097d21130607e8c3b5c464164d99c94d67b07122dcc6864f42adde4c05772c3"
+                "sha256:156332701e3f9880ebb8fdc37bdd5482d553c46f16ee242af2e517f760d5fe3a",
+                "sha256:51114205ccefc1aa22a5e0f9131b082c9c9a4fa76d0d75e059b98a00bfc3706d"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.6'",
-            "version": "==1.0.6"
+            "version": "==2.0.2"
         },
         "dnspython": {
             "hashes": [
@@ -1040,11 +1040,11 @@
         },
         "pytz": {
             "hashes": [
-                "sha256:01a0681c4b9684a28304615eba55d1ab31ae00bf68ec157ec3708a8182dbbcd0",
-                "sha256:78f4f37d8198e0627c5f1143240bb0206b8691d8d7ac6d78fee88b78733f8c4a"
+                "sha256:31d4583c4ed539cd037956140d695e42c033a19e984bfce9964a3f7d59bc2b40",
+                "sha256:f90ef520d95e7c46951105338d918664ebfd6f1d995bd7d153127ce90efafa6a"
             ],
             "index": "pypi",
-            "version": "==2022.7.1"
+            "version": "==2023.4"
         },
         "pyyaml": {
             "hashes": [
