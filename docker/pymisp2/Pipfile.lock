@@ -351,12 +351,12 @@
         },
         "pymisp": {
             "hashes": [
-                "sha256:96690ccd3382d1b44e808d84bb9ac461a60d9ad323a64b2732e10683d355e55f",
-                "sha256:975b68ad9f38e7322d0994ce327abff359aa400f9e6d62a75be33694e4b06ec1"
+                "sha256:369595f98783ea60e97fefb2d56c3c7ef60ea9e56ad13aa10ece924db2343252",
+                "sha256:7bd76c74e2c0fbdbed61973b09469c381e0d3a1276298c12e13e8b772516493c"
             ],
             "index": "pypi",
             "markers": "python_full_version >= '3.9.2' and python_version < '4.0'",
-            "version": "==2.5.9"
+            "version": "==2.5.10"
         },
         "pyparsing": {
             "hashes": [
