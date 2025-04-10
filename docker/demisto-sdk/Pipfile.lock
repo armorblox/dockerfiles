@@ -504,12 +504,12 @@
         },
         "demisto-sdk": {
             "hashes": [
-                "sha256:28f1353900f7b37c53ae535b207b8b442036f742a94c8348ff4a352f0fb84424",
-                "sha256:4d9948e58b3d2e3fb47ad1c2a916a1e7f6e19ebe27ee3b0f66751b4002ba38f6"
+                "sha256:38ea4e5b8bfb5543e7da3c65e1a1da5abdc1ee55a79907231b7faee8c8d8f0e0",
+                "sha256:4a1671a648946dda51ef07d83a6b65ca27149ca46661dba09495eac936c75ead"
             ],
             "index": "pypi",
             "markers": "python_version < '3.13' and python_version >= '3.9'",
-            "version": "==1.37.1"
+            "version": "==1.37.2"
         },
         "deprecated": {
             "hashes": [
