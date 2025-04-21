@@ -52,12 +52,12 @@
         },
         "eli5": {
             "hashes": [
-                "sha256:711630def601707b3d37aa3c33d39a1d212bb8017b558a7b6424bae1c320a303",
-                "sha256:9270a08987f733d951cdf5defe81ca5c2280dc606986e183b8870aa9508df11e"
+                "sha256:6d8ab55b3535f8feecf4f98dbaadd6876121e5a2549735635cf71707d34bd47c",
+                "sha256:b81256483591542fe69a1c62d4dea4a2f2f75afa81559c237856c9c6ead62ab4"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.9'",
-            "version": "==0.15.0"
+            "version": "==0.16.0"
         },
         "graphviz": {
             "hashes": [
