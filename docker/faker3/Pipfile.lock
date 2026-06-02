@@ -18,11 +18,12 @@
     "default": {
         "faker": {
             "hashes": [
-                "sha256:2d5443724f640ce07658ca8ca8bbd40d26b58914e63eec6549727869aa67e2cc",
-                "sha256:c2a2ff9dd8dfd991109b517ab98d5cb465e857acb45f6b643a0e284a9eb2cc76"
+                "sha256:0305002eb7441dbbc774b48ec95f4794188fcedf1f4697d205cb59a38db8d6ee",
+                "sha256:d66c65751b70e179515c163bfb3e3fb89139395bb9f0eb78bfdf8c6c81aa9c8c"
             ],
             "index": "pypi",
-            "version": "==15.3.4"
+            "markers": "python_version >= '3.10'",
+            "version": "==40.20.0"
         },
         "python-dateutil": {
             "hashes": [
