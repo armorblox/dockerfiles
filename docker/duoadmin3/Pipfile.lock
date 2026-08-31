@@ -18,11 +18,11 @@
     "default": {
         "duo-client": {
             "hashes": [
-                "sha256:33743445639c9f226fe9193f562fc300c9014ff2680a83daccd4dc7277111617",
-                "sha256:a6a263e8060fb518f80a5f2c4b7256c8e53d2cecab5b09839699a3201a0e22eb"
+                "sha256:8ae0feb93226b13e9b7b29f6970118a52386b9500d410c2b9775fd21a34dd293",
+                "sha256:cc46ba464eb9be98bc6507be0b2a7c610190201b921e6237b79cc4b06b3dd946"
             ],
             "index": "pypi",
-            "version": "==4.7.0"
+            "version": "==5.7.0"
         },
         "pydantic": {
             "hashes": [
@@ -68,11 +68,11 @@
         },
         "setuptools": {
             "hashes": [
-                "sha256:5df61bf30bb10c6f756eb19e7c9f3b473051f48db77fddbe06ff2ca307df9a6f",
-                "sha256:62642358adc77ffa87233bc4d2354c4b2682d214048f500964dbe760ccedf102"
+                "sha256:51a52592b3b99e102b609654876bd65f19f999935166d1352678931132b0c670",
+                "sha256:f4695c21257f0d9b537ec2692c941d02ee143b7cc1276941349a546573b2ef73"
             ],
-            "markers": "python_version >= '3.7'",
-            "version": "==67.8.0"
+            "markers": "python_version >= '3.10'",
+            "version": "==84.0.0"
         },
         "six": {
             "hashes": [
