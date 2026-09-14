@@ -170,11 +170,11 @@
         },
         "funcy": {
             "hashes": [
-                "sha256:00ce91afc850357a131dc54f0db2ad8a1110d5087f1fa4480d7ea3ba0249f89d",
-                "sha256:15448d19a8ebcc7a585afe7a384a19186d0bd67cbf56fb42cd1fd0f76313f9b2"
+                "sha256:290794186530c944f7e444d2e28b98f33a55685f2bfb9b7a61dac564decab8f8",
+                "sha256:8979feb3de7120afd1d00e5a8eae810c1942e4bfbc91697151e9ee1e49f79284"
             ],
             "index": "pypi",
-            "version": "==1.18"
+            "version": "==2.1"
         },
         "idna": {
             "hashes": [
